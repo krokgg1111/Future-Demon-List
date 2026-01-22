@@ -1,12 +1,14 @@
 UPCOMING CHANGES
 🔴Top 5
+🟠Top 10
 🟡Top 15
-🟢Other top
-🔵Verified (Will be removed after placing at demonlist)
-🟣Will be moved
+🟢Top 20
+🔵Other top
+🟣Verified (Will be removed after placing at demonlist)
+🟤Will be moved
 
 ----------------------
 
-🟣Endless Nights
-🟢It Means Everything
-🟢Banshee
+🟤Endless Nights
+🔵It Means Everything
+🔵Banshee
