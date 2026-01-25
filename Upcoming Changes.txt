@@ -10,3 +10,4 @@ UPCOMING CHANGES
 ----------------------
 
 🔵Banshee
+🔵Cyberpsychosis
